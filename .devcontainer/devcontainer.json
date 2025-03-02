@@ -9,7 +9,7 @@
         "ms-python.python",
         "ms-python.vscode-pylance",
         "eamodio.gitlens",
-        // any other extensions you want
+        "ms-azuretools.vscode-docker"
       ],
       "settings": {
         "python.defaultInterpreterPath": "/usr/local/bin/python",
